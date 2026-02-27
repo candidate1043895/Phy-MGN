@@ -40,7 +40,7 @@ Request two nodes, 8 GPUs with equal number of tasks per node
 
 `module list`
 
-`source /work4/clf/scarf1271/MGNenv/bin/activate`
+`source /path/to/MGNenv/bin/activate`
 
 3. Go to MGN/training_script, set values to slurm environment on both nodes
    
